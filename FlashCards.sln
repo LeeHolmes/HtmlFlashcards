@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashCardsSupport", "FlashCardsSupport\FlashCardsSupport.csproj", "{2208CE7E-1E1D-4B77-B0EE-CED368CBFEB0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashcardTrainer", "FlashcardTrainer\FlashcardTrainer.csproj", "{9709CF09-671C-4E3E-84B2-3711D701FEF5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2208CE7E-1E1D-4B77-B0EE-CED368CBFEB0}.Debug.ActiveCfg = Debug|.NET
+		{2208CE7E-1E1D-4B77-B0EE-CED368CBFEB0}.Debug.Build.0 = Debug|.NET
+		{2208CE7E-1E1D-4B77-B0EE-CED368CBFEB0}.Release.ActiveCfg = Release|.NET
+		{2208CE7E-1E1D-4B77-B0EE-CED368CBFEB0}.Release.Build.0 = Release|.NET
+		{9709CF09-671C-4E3E-84B2-3711D701FEF5}.Debug.ActiveCfg = Debug|.NET
+		{9709CF09-671C-4E3E-84B2-3711D701FEF5}.Debug.Build.0 = Debug|.NET
+		{9709CF09-671C-4E3E-84B2-3711D701FEF5}.Release.ActiveCfg = Release|.NET
+		{9709CF09-671C-4E3E-84B2-3711D701FEF5}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
